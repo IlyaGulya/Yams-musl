@@ -73,3 +73,5 @@ docs
 # Bazel
 bazel-*
 MODULE.bazel.lock
+
+.idea
